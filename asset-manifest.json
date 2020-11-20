@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RickThis/MyApp.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/RickThis/MyApp.git/static/js/main.535838a3.chunk.js",
+    "main.js.map": "/RickThis/MyApp.git/static/js/main.535838a3.chunk.js.map",
+    "runtime-main.js": "/RickThis/MyApp.git/static/js/runtime-main.dd0344ff.js",
+    "runtime-main.js.map": "/RickThis/MyApp.git/static/js/runtime-main.dd0344ff.js.map",
+    "static/js/2.75aa4474.chunk.js": "/RickThis/MyApp.git/static/js/2.75aa4474.chunk.js",
+    "static/js/2.75aa4474.chunk.js.map": "/RickThis/MyApp.git/static/js/2.75aa4474.chunk.js.map",
+    "static/js/3.9de0fc56.chunk.js": "/RickThis/MyApp.git/static/js/3.9de0fc56.chunk.js",
+    "static/js/3.9de0fc56.chunk.js.map": "/RickThis/MyApp.git/static/js/3.9de0fc56.chunk.js.map",
+    "index.html": "/RickThis/MyApp.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/RickThis/MyApp.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.75aa4474.chunk.js.LICENSE.txt": "/RickThis/MyApp.git/static/js/2.75aa4474.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/RickThis/MyApp.git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd0344ff.js",
+    "static/js/2.75aa4474.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.535838a3.chunk.js"
+  ]
+}
